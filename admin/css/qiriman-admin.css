@@ -1,0 +1,24 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ .multiselect {
+     min-height: 8em;
+ }
+
+ .idwebmobile-qiriman-invisible {
+     display: none;
+ }
+
+ .idwebmobile-qiriman-error-message {
+     color: red !important;
+ }
+
+ .idwebmobile-qiriman-no-padding-top {
+     padding-top: 0 !important;
+ }
+
+ .idwebmobile-qiriman-no-padding-bottom {
+     padding-bottom: 0 !important;
+ }
